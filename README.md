@@ -79,7 +79,7 @@ The architecture of the project is illustrated in the following image:
 
 
 
-![meltano_diagram drawio](https://github.com/remotecom/data-engineer-code-exercise--gonza0305/assets/15968266/5458ed72-8ded-45a9-883b-af48403fe37c)<br>
+![meltano_diagram drawio](https://github.com/gonza0305/test_readme/assets/15968266/5b605ce0-6561-4fed-9d70-aecb49478fc2)<br>
 
 
 
@@ -103,7 +103,7 @@ The project has different environments: development, staging, and production. We
 ## Implementation with Meltano
 
 
-![ELT_meltano drawio](https://github.com/remotecom/data-engineer-code-exercise--gonza0305/assets/15968266/aa7749de-ece9-481e-aa10-92707062e07e)<br>
+![ELT_meltano drawio](https://github.com/gonza0305/test_readme/assets/15968266/84e8ee88-1274-4a34-a083-d70af6ef091c)<br>
 
 
 ### Custom Extractor for SpaceX-API
