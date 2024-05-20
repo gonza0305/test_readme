@@ -186,8 +186,8 @@ To containerize my project, I have used Docker. The project is currently being e
 ## Considerations
 - Concerning the data, I have considered that each payload_id represents a satellite.
 - As I am not the owner of the repository I can't implement webhooks to trigger the build images in CodeBuild, so I am currently triggering them manually, as you can see below:
-![Screenshot 2024-05-19 at 22 17 06](https://github.com/remotecom/data-engineer-code-exercise--gonza0305/assets/15968266/972f4c4b-096c-495d-98fd-8b94f1834675)
-![Screenshot 2024-05-19 at 22 17 35](https://github.com/remotecom/data-engineer-code-exercise--gonza0305/assets/15968266/1af56352-1dfd-463e-8be7-753d83b478f0)
+![Screenshot 2024-05-19 at 22 17 35](https://github.com/gonza0305/test_readme/assets/15968266/e45a4539-255c-4719-81a8-508ea889dd71)
+![Screenshot 2024-05-19 at 22 17 06](https://github.com/gonza0305/test_readme/assets/15968266/7b917c6d-faac-4b9a-94cf-776016604e19)
 
 
 ## Challenges Encountered
